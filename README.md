@@ -1,4 +1,6 @@
-# reactbeer3
+# ReasonReact Beer
+
+This is a ReasonReact sample project made for [React Beer Lille #3](https://www.meetup.com/fr-FR/ReactBeerLille/events/262028719/)
 
 ## Run Project
 
